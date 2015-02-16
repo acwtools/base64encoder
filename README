@@ -1,0 +1,6 @@
+Usage base64encoder [options] input
+-h  --help      print this help
+-v  --version   print version info
+-d  --decode    decode base64 input
+-o  --output    write output to file (instead of stdout)
+-s  --stats     print stats (if output present)
